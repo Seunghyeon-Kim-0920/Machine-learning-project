@@ -4,7 +4,7 @@ The goal of this project is to predict the close price of Tesla stock for the ne
 
 
 
-This work was done by \[TON NOM] and \[NOMS DES AUTRES MEMBRES] as students at ESILV in the financial engineering and data science major.
+This work was done by Seunghyeon Kim and Martin Bouleuc as students at ESILV in the financial engineering major.
 
 
 
